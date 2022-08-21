@@ -87,7 +87,6 @@ the concrete syntax [below](#syntax).
 
 ## Syntax
 
-<p style="font-size:smaller">
 $$
 \begin{array}{l l l l} 
 \mathit{program} & :: = & program\_element^* & \mbox{(Programs)}\\
@@ -161,7 +160,6 @@ $$
 %\mathit{predicate\_definition} & ::= & \mathbf{let}\; \mathbf{rec} \; x \; \overline{typed\_id} =  \mathit{assertion} & \mbox{(Predicate Definition)}
 \end{array}
 $$
-</p>
 
 ---
 
