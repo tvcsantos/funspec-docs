@@ -2,7 +2,7 @@
 
 !!! warning "Warning"
 
-    This project is no longer maintained.
+    This project is no longer maintained
 
 In this work we aim at providing an effective support for reasoning about
 imperative programs with data structures and aliasing, by extending the
