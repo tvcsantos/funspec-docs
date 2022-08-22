@@ -10,10 +10,10 @@ window.MathJax = {
     processHtmlClass: "arithmatex"
   },
   chtml: {
-    scale: 0.9
+    scale: 0.8
   },
   svg: {
-    scale: 0.9
+    scale: 0.8
   }
 };
 
