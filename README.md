@@ -1,6 +1,6 @@
 # FunSpec
 
-> ⚠️ This project is no longer maintained ⚠️
+> ⚠️ This project was developed from 2010 to 2016 and is no longer maintained ⚠️
 
 Functional specification assertion language for static program verification.
 
